@@ -22,4 +22,4 @@ In order to analyse this observation, we calculate the unalikability parameter f
 
 1-\sum _{{i=1}}^{K}p_{i}^{2}
 
-A complete analysis of the work is presented in the report 'Report-WBC.pdf'
+A complete analysis of the work is presented in the report 'Report_WBC.pdf'
